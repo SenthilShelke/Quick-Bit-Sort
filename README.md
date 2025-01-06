@@ -1,2 +1,2 @@
 # QuickBitSort
-A sorting algorithm similar to quicksort that uses bitwise operations 
+This is a sorting algorithm similar to quick sort that uses bitwise operations to sort an array. 
